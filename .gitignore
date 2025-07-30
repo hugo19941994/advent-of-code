@@ -1,0 +1,26 @@
+# Cookie to download inputs
+.cookie
+
+# Advent of Code inputs
+**/input.txt
+
+# Editors
+*.iml
+.idea/
+.vscode/
+
+# Python
+*$py.class
+*.py[cod]
+__pycache__/
+
+# Tooling
+.mypy_cache/
+.pytest_cache/
+.reports/
+.ruff_cache/
+.venv/
+coverage/
+
+# macOS
+.DS_Store
